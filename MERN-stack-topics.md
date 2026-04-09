@@ -1,4 +1,4 @@
-For a **3–5 years experienced developer**, the expectation is not just basics but **deep understanding + real-world application + architecture thinking**. I’ll break this down into **structured subtopics for each area** 👇
+For a **3–5 years experienced developer**, the expectation is not just basics but **deep understanding + real-world application + architecture thinking**. I’ll break this down into **structured subtopics for each area** 
 
 ---
 
